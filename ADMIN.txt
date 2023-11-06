@@ -1,0 +1,8 @@
+Project id
+Api id
+Storage bucket
+user app
+app id
+
+Admin app
+app id
